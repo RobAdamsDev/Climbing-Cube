@@ -1,4 +1,4 @@
-# Basic 3rd person character controller. Roll a cube around and climb surfaces with purely physics.
+# Basic 3rd person character controller. Roll a cube around and climb surfaces with physics.
 
 Currently only has controller support. 
 
